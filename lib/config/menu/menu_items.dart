@@ -15,13 +15,13 @@ class MenuItem {
 
 final appMenuItems = <MenuItem>[
   MenuItem(
-      title: 'botones',
+      title: 'Botones',
       subTitle: 'varios botones en flutter',
       link: '/buttons',
       icon: Icons.smart_button_outlined),
   MenuItem(
       title: 'Tarjetas',
       subTitle: 'Un contenedor estilizados',
-      link: '/card',
+      link: '/cards',
       icon: Icons.credit_card)
 ];
