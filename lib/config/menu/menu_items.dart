@@ -38,5 +38,10 @@ final appMenuItems = <MenuItem>[
       title: 'Animated Container',
       subTitle: 'Stateful widget animado',
       link: '/animated',
-      icon: Icons.animation_outlined)
+      icon: Icons.animation_outlined),
+  MenuItem(
+      title: 'Checkbos, Radios % Tiles',
+      subTitle: 'Controles de UO=I',
+      link: '/ui-controls',
+      icon: Icons.car_rental_outlined),
 ];
