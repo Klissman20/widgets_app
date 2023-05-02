@@ -33,5 +33,10 @@ final appMenuItems = <MenuItem>[
       title: 'Snackbars & Dialogs',
       subTitle: 'Indicadores en pantalla',
       link: '/snackbar',
-      icon: Icons.info_rounded)
+      icon: Icons.info_rounded),
+  MenuItem(
+      title: 'Animated Container',
+      subTitle: 'Stateful widget animado',
+      link: '/animated',
+      icon: Icons.animation_outlined)
 ];
