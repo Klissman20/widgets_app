@@ -44,4 +44,9 @@ final appMenuItems = <MenuItem>[
       subTitle: 'Controles de UO=I',
       link: '/ui-controls',
       icon: Icons.car_rental_outlined),
+  MenuItem(
+      title: 'Tutorial App',
+      subTitle: 'Tutorial de la aplicacion',
+      link: '/tutorial',
+      icon: Icons.accessibility_rounded),
 ];
